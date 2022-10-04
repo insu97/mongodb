@@ -1,0 +1,8 @@
+# mongodb 실행하기
+
+cd C:\Users\USER\github\mongodb\mongodb-win32-x86_64-enterprise-windows-64-2.6.7\bin
+mognod --dbpath C:\Users\USER\github\mongodb\data\db
+
+-- 새로운 cmd 창 열기
+cd C:\Users\USER\github\mongodb\mongodb-win32-x86_64-enterprise-windows-64-2.6.7\bin
+mongo.exe
